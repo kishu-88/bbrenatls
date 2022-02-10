@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.brand-name {
+  font-family: 'Anton', sans-serif;
+}
+.navbar{
+  background-color: rgb(25 48 65);
+}
+.website-font{
+  font-family: 'Anton', sans-serif;
+font-family: 'DM Sans', sans-serif;
+}
+.Smicons{
+  height: 40px;
+  width:40px;
+  padding-right: 10px;
+}
+
+.findus{
+  text-align: center;
+  width: 100%;
+  font-size: 30px;
+  margin-top: 30px;
+  color:oldlace;
+  background-color:rgb(25 48 65);
+}
+.Showcase_brand{
+  font-family: 'Anton', sans-serif;
+  font-family: 'DM Sans', sans-serif;
+  font-family: 'Oswald', sans-serif;
+  font-size: 50px;
+}
